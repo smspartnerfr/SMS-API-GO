@@ -103,8 +103,3 @@ Run a single test:
 
     go test ./v1 -run TestCredits
 
-## TODO
-
-- [ ] Support XML response format
-- [ ] Complete client methods implemntation (Optional params)
-- [ ] Complete unit tests
