@@ -1,0 +1,11 @@
+{
+    "success": true,
+    "code": 200,
+    "message_id": "2270142",
+    "StatutResponse_List": [{
+        "phoneNumber": "+212620123456",
+        "status": "Delivered",
+        "stopSMS": false,
+        "date": "1534615206"
+    }]
+}

@@ -1,0 +1,25 @@
+{
+    "success": true,
+    "code": 200,
+    "lookup": [{
+            "request": "+212620123456",
+            "success": true,
+            "countryCode": "",
+            "prefixCode": 212,
+            "phoneNumber": "+212620123456",
+            "type": "Mobile",
+            "network": "Méditel",
+            "format": {
+                "e164": "+212620123456",
+                "international": "+212 620-123456",
+                "national": "0620-123456",
+                "rfc3966": "tel:+212-620-123456"
+            }
+        },
+        {
+            "request": " +212666123456",
+            "success": false,
+            "message": "Le numéro de téléphone est vide ou n'est pas valide."
+        }
+    ]
+}

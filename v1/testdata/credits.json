@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "credits": {
+        "balance": "0.900",
+        "creditHlr": 180,
+        "creditSms": 20,
+        "creditSmsLowCost": 37,
+        "currency": "EUR",
+        "solde": "0.900",
+        "toSend": 0
+    },
+    "success": true,
+    "user": {
+        "username": "example@gmail.com"
+    }
+}

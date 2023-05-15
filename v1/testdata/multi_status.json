@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "code": 200,
+    "StatutResponse_List": [{
+            "success": true,
+            "code": 200,
+            "phoneNumber": "+212620123456",
+            "messageId": 2270142,
+            "status": "Delivered",
+            "date": "1534615206",
+            "stopSms": "0",
+            "isSpam": "0"
+        },
+        {
+            "success": false,
+            "code": 4,
+            "phoneNumber": "+212621123456",
+            "messageId": 2270110,
+            "status": "Numéro introuvable"
+        }
+    ]
+}

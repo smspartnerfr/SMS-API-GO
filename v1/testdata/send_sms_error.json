@@ -1,0 +1,23 @@
+{
+    "success": false,
+    "code": 9,
+    "error": [{
+        "elementId": "children[message].data",
+        "message": "Le message est requis"
+    }, {
+        "elementId": "children[phoneNumbers].data",
+        "message": "Ce numero de telephone n'est pas valide (922264)"
+    }, {
+        "elementId": "children[sender].data",
+        "message": "L'emetteur ne peut pas etre plus long que 11 caracteres"
+    }, {
+        "elementId": "children[scheduledDeliveryDate].data",
+        "message": "La date (21/11/2014 \u00e0 :) est anterieure a la date actuelle."
+    }, {
+        "elementId": "children[minute].data",
+        "message": "La minute est requise"
+    }, {
+        "elementId": "children[time].data",
+        "message": "L'heure est requise"
+    }]
+}

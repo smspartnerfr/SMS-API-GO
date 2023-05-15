@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "code": 200,
+    "message_id": 2270142,
+    "nb_sms": 1,
+    "cost": 0.04,
+    "currency": "EUR",
+    "scheduledDeliveryDate": "2018-08-18 20:00:00"
+}

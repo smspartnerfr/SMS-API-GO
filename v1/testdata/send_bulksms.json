@@ -1,0 +1,23 @@
+{
+    "success": true,
+    "code": 200,
+    "message_id": 2254444,
+    "currency": "EUR",
+    "cost": 0.076,
+    "nbSMS": 2,
+    "SMSResponse_List": [{
+            "success": true,
+            "code": 200,
+            "nbSms": 1,
+            "cost": 0.038,
+            "phoneNumber": "+336xxxxxxx1"
+        },
+        {
+            "success": true,
+            "code": 200,
+            "nbSms": 1,
+            "cost": 0.038,
+            "phoneNumber": "+336xxxxxxx2"
+        }
+    ]
+}
